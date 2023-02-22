@@ -1,2 +1,4 @@
 # edge_highlighting_projection
 With a camera projector setup, the edge of a static 3D scene is highlighted. We detect the edge location and register with the projector using a transfer matrix. 
+
+<img src="https://user-images.githubusercontent.com/7547278/220618896-7faa5c29-14a3-40b2-b920-f7bea0d9f61a.png" width="150"> <img src="https://user-images.githubusercontent.com/7547278/220618909-fceb08bc-459a-4910-9f6c-451710891659.png" width="150"> <img src="https://user-images.githubusercontent.com/7547278/220618913-65387f53-b624-4f41-96fa-aa038ba65096.png" width="150"> <img src="https://user-images.githubusercontent.com/7547278/220618932-e28d9a76-b0ee-44b3-8ea3-d01f6be3b9b5.png" width="150"> <img src="https://user-images.githubusercontent.com/7547278/220618937-6e49248e-e641-4916-a67d-b02145426908.png" width="150">
